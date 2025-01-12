@@ -16,7 +16,7 @@ Clone this repository:
 git clone <https://github.com/Gla-DDoS/INF6027Project.git>
 
 Navigate to the project directory:
-cd <INF6027Project>
+cd INF6027Project
 
 Install dependencies (ensure R and required packages like tidyverse and MASS are installed).
 Run the R script (In Rstudio):
