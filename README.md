@@ -12,12 +12,12 @@ Ball Possession: Moderate correlation (correlation coefficient: 0.27).
 Predictive models based on attempts on target showed the highest reliability in forecasting goals.
 
 How to Run the Code
-Clone this repository:
+1.Clone this repository:
 git clone <https://github.com/Gla-DDoS/INF6027Project.git>
 
-Navigate to the project directory:
+2.Navigate to the project directory:
 cd INF6027Project
 
-Install dependencies (ensure R and required packages like tidyverse and MASS are installed).
+3.Install dependencies (ensure R and required packages like tidyverse and MASS are installed).
 Run the R script (In Rstudio):
 source("INF6027.R")
