@@ -15,9 +15,5 @@ How to Run the Code
 1.Clone this repository:
 git clone <https://github.com/Gla-DDoS/INF6027Project.git>
 
-2.Navigate to the project directory:
-cd INF6027Project
-
-3.Install dependencies (ensure R and required packages like tidyverse and MASS are installed).
-Run the R script (In Rstudio):
-source("INF6027.R")
+2.Install dependencies (ensure R and required packages like tidyverse and MASS are installed).
+3.Run the R script (In Rstudio):("INF6027.R")
